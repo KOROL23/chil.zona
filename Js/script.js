@@ -45,5 +45,5 @@ window.onblur = () =>{
 
 window.onfocus = () =>{
     // clearTimeout(timer);
-    changeTitle('../favicon (2).ico', titleOld);
+    changeTitle('chil.zona/favicon (2).ico', titleOld);
 }
